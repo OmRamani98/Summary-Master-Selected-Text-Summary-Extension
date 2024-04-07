@@ -14,7 +14,7 @@ Selected Text Summary Extension is a Chrome extension that allows users to gener
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/OmRamani98/Summary-Master-YouTube-Video-Summary-Extension.git
+   git clone https://github.com/OmRamani98/Summary-Master-Selected-Text-Summary-Extension.git
 2. Open Google Chrome and navigate to `chrome://extensions/`.
 3. Enable Developer mode by toggling the switch in the top right corner.
 4. Click on the "Load unpacked" button and select the downloaded extension folder.
